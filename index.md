@@ -10,8 +10,6 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 <h2>Information Collection and Use</h2>
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Kullanıcı Adı, Yaş, Eğitim Düzeyi, Çalışma Durumu, Ekonomik Durumu, Gebelik Durumu. The information that I request will be retained on your device and is not collected by me in any way.
-
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
