@@ -16,8 +16,8 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-Google Play Services
-Retrofit
+\nGoogle Play Services
+\nRetrofit\n
 
 I may employ third-party companies and individuals due to the following reasons:
 
