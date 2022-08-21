@@ -21,8 +21,6 @@ Link to privacy policy of third party service providers used by the app
 I may employ third-party companies and individuals due to the following reasons:
 
 To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
 
 <h2>Security</h2>
 
@@ -36,7 +34,7 @@ These Services is developed for everyone and there is not any restriction.
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-07-20
+This policy is effective as of 2022-08-21
 
 <h2>Contact Us</h2>
 
